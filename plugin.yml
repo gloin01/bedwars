@@ -1,0 +1,11 @@
+name: Bedwars
+version: 0.3.1
+main: me.gloin01.bedwars.Main
+commands:
+     team:
+          description: Verwaltet die Bedwarsteams.
+          usage: </command>
+     spawnBlock:
+          description: Zum anzeigen des Inhalts von 'spawnBlocks'.
+          usage: </command>
+          aliases: sb
